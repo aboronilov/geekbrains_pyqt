@@ -1,0 +1,964 @@
+[
+    {
+        "label": "*",
+        "importPath": "common.variables",
+        "description": "common.variables",
+        "isExtraImport": true,
+        "detail": "common.variables",
+        "documentation": {}
+    },
+    {
+        "label": "LOGGING_LEVEL",
+        "importPath": "common.variables",
+        "description": "common.variables",
+        "isExtraImport": true,
+        "detail": "common.variables",
+        "documentation": {}
+    },
+    {
+        "label": "LOGGING_LEVEL",
+        "importPath": "common.variables",
+        "description": "common.variables",
+        "isExtraImport": true,
+        "detail": "common.variables",
+        "documentation": {}
+    },
+    {
+        "label": "*",
+        "importPath": "common.variables",
+        "description": "common.variables",
+        "isExtraImport": true,
+        "detail": "common.variables",
+        "documentation": {}
+    },
+    {
+        "label": "*",
+        "importPath": "common.variables",
+        "description": "common.variables",
+        "isExtraImport": true,
+        "detail": "common.variables",
+        "documentation": {}
+    },
+    {
+        "label": "*",
+        "importPath": "common.variables",
+        "description": "common.variables",
+        "isExtraImport": true,
+        "detail": "common.variables",
+        "documentation": {}
+    },
+    {
+        "label": "*",
+        "importPath": "common.variables",
+        "description": "common.variables",
+        "isExtraImport": true,
+        "detail": "common.variables",
+        "documentation": {}
+    },
+    {
+        "label": "IncorrectDataRecivedError",
+        "importPath": "errors",
+        "description": "errors",
+        "isExtraImport": true,
+        "detail": "errors",
+        "documentation": {}
+    },
+    {
+        "label": "NonDictInputError",
+        "importPath": "errors",
+        "description": "errors",
+        "isExtraImport": true,
+        "detail": "errors",
+        "documentation": {}
+    },
+    {
+        "label": "ReqFieldMissingError",
+        "importPath": "errors",
+        "description": "errors",
+        "isExtraImport": true,
+        "detail": "errors",
+        "documentation": {}
+    },
+    {
+        "label": "ServerError",
+        "importPath": "errors",
+        "description": "errors",
+        "isExtraImport": true,
+        "detail": "errors",
+        "documentation": {}
+    },
+    {
+        "label": "NonDictInputError",
+        "importPath": "errors",
+        "description": "errors",
+        "isExtraImport": true,
+        "detail": "errors",
+        "documentation": {}
+    },
+    {
+        "label": "IncorrectDataRecivedError",
+        "importPath": "errors",
+        "description": "errors",
+        "isExtraImport": true,
+        "detail": "errors",
+        "documentation": {}
+    },
+    {
+        "label": "ReqFieldMissingError",
+        "importPath": "errors",
+        "description": "errors",
+        "isExtraImport": true,
+        "detail": "errors",
+        "documentation": {}
+    },
+    {
+        "label": "ServerError",
+        "importPath": "errors",
+        "description": "errors",
+        "isExtraImport": true,
+        "detail": "errors",
+        "documentation": {}
+    },
+    {
+        "label": "IncorrectDataRecivedError",
+        "importPath": "errors",
+        "description": "errors",
+        "isExtraImport": true,
+        "detail": "errors",
+        "documentation": {}
+    },
+    {
+        "label": "json",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "json",
+        "description": "json",
+        "detail": "json",
+        "documentation": {}
+    },
+    {
+        "label": "sys",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "sys",
+        "description": "sys",
+        "detail": "sys",
+        "documentation": {}
+    },
+    {
+        "label": "log",
+        "importPath": "decos",
+        "description": "decos",
+        "isExtraImport": true,
+        "detail": "decos",
+        "documentation": {}
+    },
+    {
+        "label": "log",
+        "importPath": "decos",
+        "description": "decos",
+        "isExtraImport": true,
+        "detail": "decos",
+        "documentation": {}
+    },
+    {
+        "label": "log",
+        "importPath": "decos",
+        "description": "decos",
+        "isExtraImport": true,
+        "detail": "decos",
+        "documentation": {}
+    },
+    {
+        "label": "logging",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "logging",
+        "description": "logging",
+        "detail": "logging",
+        "documentation": {}
+    },
+    {
+        "label": "os",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "os",
+        "description": "os",
+        "detail": "os",
+        "documentation": {}
+    },
+    {
+        "label": "*",
+        "importPath": "os",
+        "description": "os",
+        "isExtraImport": true,
+        "detail": "os",
+        "documentation": {}
+    },
+    {
+        "label": "logging.handlers",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "logging.handlers",
+        "description": "logging.handlers",
+        "detail": "logging.handlers",
+        "documentation": {}
+    },
+    {
+        "label": "create_presence",
+        "importPath": "client",
+        "description": "client",
+        "isExtraImport": true,
+        "detail": "client",
+        "documentation": {}
+    },
+    {
+        "label": "process_response_ans",
+        "importPath": "client",
+        "description": "client",
+        "isExtraImport": true,
+        "detail": "client",
+        "documentation": {}
+    },
+    {
+        "label": "unittest",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "unittest",
+        "description": "unittest",
+        "detail": "unittest",
+        "documentation": {}
+    },
+    {
+        "label": "*",
+        "importPath": "common.utils",
+        "description": "common.utils",
+        "isExtraImport": true,
+        "detail": "common.utils",
+        "documentation": {}
+    },
+    {
+        "label": "*",
+        "importPath": "common.utils",
+        "description": "common.utils",
+        "isExtraImport": true,
+        "detail": "common.utils",
+        "documentation": {}
+    },
+    {
+        "label": "*",
+        "importPath": "common.utils",
+        "description": "common.utils",
+        "isExtraImport": true,
+        "detail": "common.utils",
+        "documentation": {}
+    },
+    {
+        "label": "socket",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "socket",
+        "description": "socket",
+        "detail": "socket",
+        "documentation": {}
+    },
+    {
+        "label": "time",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "time",
+        "description": "time",
+        "detail": "time",
+        "documentation": {}
+    },
+    {
+        "label": "sleep",
+        "importPath": "time",
+        "description": "time",
+        "isExtraImport": true,
+        "detail": "time",
+        "documentation": {}
+    },
+    {
+        "label": "sleep",
+        "importPath": "time",
+        "description": "time",
+        "isExtraImport": true,
+        "detail": "time",
+        "documentation": {}
+    },
+    {
+        "label": "dis",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "dis",
+        "description": "dis",
+        "detail": "dis",
+        "documentation": {}
+    },
+    {
+        "label": "argparse",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "argparse",
+        "description": "argparse",
+        "detail": "argparse",
+        "documentation": {}
+    },
+    {
+        "label": "threading",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "threading",
+        "description": "threading",
+        "detail": "threading",
+        "documentation": {}
+    },
+    {
+        "label": "logs.config_client_log",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "logs.config_client_log",
+        "description": "logs.config_client_log",
+        "detail": "logs.config_client_log",
+        "documentation": {}
+    },
+    {
+        "label": "logs.config_server_log",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "logs.config_server_log",
+        "description": "logs.config_server_log",
+        "detail": "logs.config_server_log",
+        "documentation": {}
+    },
+    {
+        "label": "subprocess",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "subprocess",
+        "description": "subprocess",
+        "detail": "subprocess",
+        "documentation": {}
+    },
+    {
+        "label": "Popen",
+        "importPath": "subprocess",
+        "description": "subprocess",
+        "isExtraImport": true,
+        "detail": "subprocess",
+        "documentation": {}
+    },
+    {
+        "label": "signal",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "signal",
+        "description": "signal",
+        "detail": "signal",
+        "documentation": {}
+    },
+    {
+        "label": "stat",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "stat",
+        "description": "stat",
+        "detail": "stat",
+        "documentation": {}
+    },
+    {
+        "label": "select",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "select",
+        "description": "select",
+        "detail": "select",
+        "documentation": {}
+    },
+    {
+        "label": "get_message",
+        "kind": 2,
+        "importPath": "common.utils",
+        "description": "common.utils",
+        "peekOfCode": "def get_message(client):\n    encoded_response = client.recv(MAX_PACKAGE_LENGTH)\n    if isinstance(encoded_response, bytes):\n        json_response = encoded_response.decode(ENCODING)\n        response = json.loads(json_response)\n        if isinstance(response, dict):\n            return response\n        else:\n            raise IncorrectDataRecivedError\n    else:",
+        "detail": "common.utils",
+        "documentation": {}
+    },
+    {
+        "label": "send_message",
+        "kind": 2,
+        "importPath": "common.utils",
+        "description": "common.utils",
+        "peekOfCode": "def send_message(sock, message):\n    if not isinstance(message, dict):\n        raise NonDictInputError\n    js_message = json.dumps(message)\n    encoded_message = js_message.encode(ENCODING)\n    sock.send(encoded_message)",
+        "detail": "common.utils",
+        "documentation": {}
+    },
+    {
+        "label": "DEFAULT_PORT",
+        "kind": 5,
+        "importPath": "common.variables",
+        "description": "common.variables",
+        "peekOfCode": "DEFAULT_PORT = 7000\n# IP адрес по умолчанию для подключения клиента\nDEFAULT_IP_ADDRESS = '127.0.0.1'\n# Максимальная очередь подключений\nMAX_CONNECTIONS = 5\n# Максимальная длинна сообщения в байтах\nMAX_PACKAGE_LENGTH = 1024\n# Кодировка проекта\nENCODING = 'utf-8'\n# Текущий уровень логирования",
+        "detail": "common.variables",
+        "documentation": {}
+    },
+    {
+        "label": "DEFAULT_IP_ADDRESS",
+        "kind": 5,
+        "importPath": "common.variables",
+        "description": "common.variables",
+        "peekOfCode": "DEFAULT_IP_ADDRESS = '127.0.0.1'\n# Максимальная очередь подключений\nMAX_CONNECTIONS = 5\n# Максимальная длинна сообщения в байтах\nMAX_PACKAGE_LENGTH = 1024\n# Кодировка проекта\nENCODING = 'utf-8'\n# Текущий уровень логирования\nLOGGING_LEVEL = logging.DEBUG\n# Прококол JIM основные ключи:",
+        "detail": "common.variables",
+        "documentation": {}
+    },
+    {
+        "label": "MAX_CONNECTIONS",
+        "kind": 5,
+        "importPath": "common.variables",
+        "description": "common.variables",
+        "peekOfCode": "MAX_CONNECTIONS = 5\n# Максимальная длинна сообщения в байтах\nMAX_PACKAGE_LENGTH = 1024\n# Кодировка проекта\nENCODING = 'utf-8'\n# Текущий уровень логирования\nLOGGING_LEVEL = logging.DEBUG\n# Прококол JIM основные ключи:\nACTION = 'action'\nTIME = 'time'",
+        "detail": "common.variables",
+        "documentation": {}
+    },
+    {
+        "label": "MAX_PACKAGE_LENGTH",
+        "kind": 5,
+        "importPath": "common.variables",
+        "description": "common.variables",
+        "peekOfCode": "MAX_PACKAGE_LENGTH = 1024\n# Кодировка проекта\nENCODING = 'utf-8'\n# Текущий уровень логирования\nLOGGING_LEVEL = logging.DEBUG\n# Прококол JIM основные ключи:\nACTION = 'action'\nTIME = 'time'\nUSER = 'user'\nACCOUNT_NAME = 'account_name'",
+        "detail": "common.variables",
+        "documentation": {}
+    },
+    {
+        "label": "ENCODING",
+        "kind": 5,
+        "importPath": "common.variables",
+        "description": "common.variables",
+        "peekOfCode": "ENCODING = 'utf-8'\n# Текущий уровень логирования\nLOGGING_LEVEL = logging.DEBUG\n# Прококол JIM основные ключи:\nACTION = 'action'\nTIME = 'time'\nUSER = 'user'\nACCOUNT_NAME = 'account_name'\nSENDER = 'from'\nDESTINATION = 'to'",
+        "detail": "common.variables",
+        "documentation": {}
+    },
+    {
+        "label": "LOGGING_LEVEL",
+        "kind": 5,
+        "importPath": "common.variables",
+        "description": "common.variables",
+        "peekOfCode": "LOGGING_LEVEL = logging.DEBUG\n# Прококол JIM основные ключи:\nACTION = 'action'\nTIME = 'time'\nUSER = 'user'\nACCOUNT_NAME = 'account_name'\nSENDER = 'from'\nDESTINATION = 'to'\n# Прочие ключи, используемые в протоколе\nPRESENCE = 'presence'",
+        "detail": "common.variables",
+        "documentation": {}
+    },
+    {
+        "label": "ACTION",
+        "kind": 5,
+        "importPath": "common.variables",
+        "description": "common.variables",
+        "peekOfCode": "ACTION = 'action'\nTIME = 'time'\nUSER = 'user'\nACCOUNT_NAME = 'account_name'\nSENDER = 'from'\nDESTINATION = 'to'\n# Прочие ключи, используемые в протоколе\nPRESENCE = 'presence'\nRESPONSE = 'response'\nERROR = 'error'",
+        "detail": "common.variables",
+        "documentation": {}
+    },
+    {
+        "label": "TIME",
+        "kind": 5,
+        "importPath": "common.variables",
+        "description": "common.variables",
+        "peekOfCode": "TIME = 'time'\nUSER = 'user'\nACCOUNT_NAME = 'account_name'\nSENDER = 'from'\nDESTINATION = 'to'\n# Прочие ключи, используемые в протоколе\nPRESENCE = 'presence'\nRESPONSE = 'response'\nERROR = 'error'\nMESSAGE = 'message'",
+        "detail": "common.variables",
+        "documentation": {}
+    },
+    {
+        "label": "USER",
+        "kind": 5,
+        "importPath": "common.variables",
+        "description": "common.variables",
+        "peekOfCode": "USER = 'user'\nACCOUNT_NAME = 'account_name'\nSENDER = 'from'\nDESTINATION = 'to'\n# Прочие ключи, используемые в протоколе\nPRESENCE = 'presence'\nRESPONSE = 'response'\nERROR = 'error'\nMESSAGE = 'message'\nMESSAGE_TEXT = 'mess_text'",
+        "detail": "common.variables",
+        "documentation": {}
+    },
+    {
+        "label": "ACCOUNT_NAME",
+        "kind": 5,
+        "importPath": "common.variables",
+        "description": "common.variables",
+        "peekOfCode": "ACCOUNT_NAME = 'account_name'\nSENDER = 'from'\nDESTINATION = 'to'\n# Прочие ключи, используемые в протоколе\nPRESENCE = 'presence'\nRESPONSE = 'response'\nERROR = 'error'\nMESSAGE = 'message'\nMESSAGE_TEXT = 'mess_text'\nEXIT = 'exit'",
+        "detail": "common.variables",
+        "documentation": {}
+    },
+    {
+        "label": "SENDER",
+        "kind": 5,
+        "importPath": "common.variables",
+        "description": "common.variables",
+        "peekOfCode": "SENDER = 'from'\nDESTINATION = 'to'\n# Прочие ключи, используемые в протоколе\nPRESENCE = 'presence'\nRESPONSE = 'response'\nERROR = 'error'\nMESSAGE = 'message'\nMESSAGE_TEXT = 'mess_text'\nEXIT = 'exit'\n# Словари - ответы:",
+        "detail": "common.variables",
+        "documentation": {}
+    },
+    {
+        "label": "DESTINATION",
+        "kind": 5,
+        "importPath": "common.variables",
+        "description": "common.variables",
+        "peekOfCode": "DESTINATION = 'to'\n# Прочие ключи, используемые в протоколе\nPRESENCE = 'presence'\nRESPONSE = 'response'\nERROR = 'error'\nMESSAGE = 'message'\nMESSAGE_TEXT = 'mess_text'\nEXIT = 'exit'\n# Словари - ответы:\n# 200",
+        "detail": "common.variables",
+        "documentation": {}
+    },
+    {
+        "label": "PRESENCE",
+        "kind": 5,
+        "importPath": "common.variables",
+        "description": "common.variables",
+        "peekOfCode": "PRESENCE = 'presence'\nRESPONSE = 'response'\nERROR = 'error'\nMESSAGE = 'message'\nMESSAGE_TEXT = 'mess_text'\nEXIT = 'exit'\n# Словари - ответы:\n# 200\nRESPONSE_200 = {RESPONSE: 200}\n# 400",
+        "detail": "common.variables",
+        "documentation": {}
+    },
+    {
+        "label": "RESPONSE",
+        "kind": 5,
+        "importPath": "common.variables",
+        "description": "common.variables",
+        "peekOfCode": "RESPONSE = 'response'\nERROR = 'error'\nMESSAGE = 'message'\nMESSAGE_TEXT = 'mess_text'\nEXIT = 'exit'\n# Словари - ответы:\n# 200\nRESPONSE_200 = {RESPONSE: 200}\n# 400\nRESPONSE_400 = {",
+        "detail": "common.variables",
+        "documentation": {}
+    },
+    {
+        "label": "ERROR",
+        "kind": 5,
+        "importPath": "common.variables",
+        "description": "common.variables",
+        "peekOfCode": "ERROR = 'error'\nMESSAGE = 'message'\nMESSAGE_TEXT = 'mess_text'\nEXIT = 'exit'\n# Словари - ответы:\n# 200\nRESPONSE_200 = {RESPONSE: 200}\n# 400\nRESPONSE_400 = {\n            RESPONSE: 400,",
+        "detail": "common.variables",
+        "documentation": {}
+    },
+    {
+        "label": "MESSAGE",
+        "kind": 5,
+        "importPath": "common.variables",
+        "description": "common.variables",
+        "peekOfCode": "MESSAGE = 'message'\nMESSAGE_TEXT = 'mess_text'\nEXIT = 'exit'\n# Словари - ответы:\n# 200\nRESPONSE_200 = {RESPONSE: 200}\n# 400\nRESPONSE_400 = {\n            RESPONSE: 400,\n            ERROR: None",
+        "detail": "common.variables",
+        "documentation": {}
+    },
+    {
+        "label": "MESSAGE_TEXT",
+        "kind": 5,
+        "importPath": "common.variables",
+        "description": "common.variables",
+        "peekOfCode": "MESSAGE_TEXT = 'mess_text'\nEXIT = 'exit'\n# Словари - ответы:\n# 200\nRESPONSE_200 = {RESPONSE: 200}\n# 400\nRESPONSE_400 = {\n            RESPONSE: 400,\n            ERROR: None\n        }",
+        "detail": "common.variables",
+        "documentation": {}
+    },
+    {
+        "label": "EXIT",
+        "kind": 5,
+        "importPath": "common.variables",
+        "description": "common.variables",
+        "peekOfCode": "EXIT = 'exit'\n# Словари - ответы:\n# 200\nRESPONSE_200 = {RESPONSE: 200}\n# 400\nRESPONSE_400 = {\n            RESPONSE: 400,\n            ERROR: None\n        }",
+        "detail": "common.variables",
+        "documentation": {}
+    },
+    {
+        "label": "RESPONSE_200",
+        "kind": 5,
+        "importPath": "common.variables",
+        "description": "common.variables",
+        "peekOfCode": "RESPONSE_200 = {RESPONSE: 200}\n# 400\nRESPONSE_400 = {\n            RESPONSE: 400,\n            ERROR: None\n        }",
+        "detail": "common.variables",
+        "documentation": {}
+    },
+    {
+        "label": "RESPONSE_400",
+        "kind": 5,
+        "importPath": "common.variables",
+        "description": "common.variables",
+        "peekOfCode": "RESPONSE_400 = {\n            RESPONSE: 400,\n            ERROR: None\n        }",
+        "detail": "common.variables",
+        "documentation": {}
+    },
+    {
+        "label": "client_formatter",
+        "kind": 5,
+        "importPath": "logs.config_client_log",
+        "description": "logs.config_client_log",
+        "peekOfCode": "client_formatter = logging.Formatter('%(asctime)s %(levelname)s %(filename)s %(message)s')\n# Подготовка имени файла для логирования\npath = os.path.dirname(os.path.abspath(__file__))\npath = os.path.join(path, 'client.log')\n# создаём потоки вывода логов\nsteam = logging.StreamHandler(sys.stderr)\nsteam.setFormatter(client_formatter)\nsteam.setLevel(logging.ERROR)\nlog_file = logging.FileHandler(path, encoding='utf8')\nlog_file.setFormatter(client_formatter)",
+        "detail": "logs.config_client_log",
+        "documentation": {}
+    },
+    {
+        "label": "path",
+        "kind": 5,
+        "importPath": "logs.config_client_log",
+        "description": "logs.config_client_log",
+        "peekOfCode": "path = os.path.dirname(os.path.abspath(__file__))\npath = os.path.join(path, 'client.log')\n# создаём потоки вывода логов\nsteam = logging.StreamHandler(sys.stderr)\nsteam.setFormatter(client_formatter)\nsteam.setLevel(logging.ERROR)\nlog_file = logging.FileHandler(path, encoding='utf8')\nlog_file.setFormatter(client_formatter)\n# создаём регистратор и настраиваем его\nlogger = logging.getLogger('client_dist')",
+        "detail": "logs.config_client_log",
+        "documentation": {}
+    },
+    {
+        "label": "path",
+        "kind": 5,
+        "importPath": "logs.config_client_log",
+        "description": "logs.config_client_log",
+        "peekOfCode": "path = os.path.join(path, 'client.log')\n# создаём потоки вывода логов\nsteam = logging.StreamHandler(sys.stderr)\nsteam.setFormatter(client_formatter)\nsteam.setLevel(logging.ERROR)\nlog_file = logging.FileHandler(path, encoding='utf8')\nlog_file.setFormatter(client_formatter)\n# создаём регистратор и настраиваем его\nlogger = logging.getLogger('client_dist')\nlogger.addHandler(steam)",
+        "detail": "logs.config_client_log",
+        "documentation": {}
+    },
+    {
+        "label": "steam",
+        "kind": 5,
+        "importPath": "logs.config_client_log",
+        "description": "logs.config_client_log",
+        "peekOfCode": "steam = logging.StreamHandler(sys.stderr)\nsteam.setFormatter(client_formatter)\nsteam.setLevel(logging.ERROR)\nlog_file = logging.FileHandler(path, encoding='utf8')\nlog_file.setFormatter(client_formatter)\n# создаём регистратор и настраиваем его\nlogger = logging.getLogger('client_dist')\nlogger.addHandler(steam)\nlogger.addHandler(log_file)\nlogger.setLevel(LOGGING_LEVEL)",
+        "detail": "logs.config_client_log",
+        "documentation": {}
+    },
+    {
+        "label": "log_file",
+        "kind": 5,
+        "importPath": "logs.config_client_log",
+        "description": "logs.config_client_log",
+        "peekOfCode": "log_file = logging.FileHandler(path, encoding='utf8')\nlog_file.setFormatter(client_formatter)\n# создаём регистратор и настраиваем его\nlogger = logging.getLogger('client_dist')\nlogger.addHandler(steam)\nlogger.addHandler(log_file)\nlogger.setLevel(LOGGING_LEVEL)\n# отладка\nif __name__ == '__main__':\n    logger.critical('Test critical event')",
+        "detail": "logs.config_client_log",
+        "documentation": {}
+    },
+    {
+        "label": "logger",
+        "kind": 5,
+        "importPath": "logs.config_client_log",
+        "description": "logs.config_client_log",
+        "peekOfCode": "logger = logging.getLogger('client_dist')\nlogger.addHandler(steam)\nlogger.addHandler(log_file)\nlogger.setLevel(LOGGING_LEVEL)\n# отладка\nif __name__ == '__main__':\n    logger.critical('Test critical event')\n    logger.error('Test error ivent')\n    logger.debug('Test debug ivent')\n    logger.info('Test info ivent')",
+        "detail": "logs.config_client_log",
+        "documentation": {}
+    },
+    {
+        "label": "server_formatter",
+        "kind": 5,
+        "importPath": "logs.config_server_log",
+        "description": "logs.config_server_log",
+        "peekOfCode": "server_formatter = logging.Formatter('%(asctime)s %(levelname)s %(filename)s %(message)s')\n# Подготовка имени файла для логирования\npath = os.path.dirname(os.path.abspath(__file__))\npath = os.path.join(path, 'server.log')\n# создаём потоки вывода логов\nsteam = logging.StreamHandler(sys.stderr)\nsteam.setFormatter(server_formatter)\nsteam.setLevel(logging.INFO)\nlog_file = logging.handlers.TimedRotatingFileHandler(path, encoding='utf8', interval=1, when='D')\nlog_file.setFormatter(server_formatter)",
+        "detail": "logs.config_server_log",
+        "documentation": {}
+    },
+    {
+        "label": "path",
+        "kind": 5,
+        "importPath": "logs.config_server_log",
+        "description": "logs.config_server_log",
+        "peekOfCode": "path = os.path.dirname(os.path.abspath(__file__))\npath = os.path.join(path, 'server.log')\n# создаём потоки вывода логов\nsteam = logging.StreamHandler(sys.stderr)\nsteam.setFormatter(server_formatter)\nsteam.setLevel(logging.INFO)\nlog_file = logging.handlers.TimedRotatingFileHandler(path, encoding='utf8', interval=1, when='D')\nlog_file.setFormatter(server_formatter)\n# создаём регистратор и настраиваем его\nlogger = logging.getLogger('server_dist')",
+        "detail": "logs.config_server_log",
+        "documentation": {}
+    },
+    {
+        "label": "path",
+        "kind": 5,
+        "importPath": "logs.config_server_log",
+        "description": "logs.config_server_log",
+        "peekOfCode": "path = os.path.join(path, 'server.log')\n# создаём потоки вывода логов\nsteam = logging.StreamHandler(sys.stderr)\nsteam.setFormatter(server_formatter)\nsteam.setLevel(logging.INFO)\nlog_file = logging.handlers.TimedRotatingFileHandler(path, encoding='utf8', interval=1, when='D')\nlog_file.setFormatter(server_formatter)\n# создаём регистратор и настраиваем его\nlogger = logging.getLogger('server_dist')\nlogger.addHandler(steam)",
+        "detail": "logs.config_server_log",
+        "documentation": {}
+    },
+    {
+        "label": "steam",
+        "kind": 5,
+        "importPath": "logs.config_server_log",
+        "description": "logs.config_server_log",
+        "peekOfCode": "steam = logging.StreamHandler(sys.stderr)\nsteam.setFormatter(server_formatter)\nsteam.setLevel(logging.INFO)\nlog_file = logging.handlers.TimedRotatingFileHandler(path, encoding='utf8', interval=1, when='D')\nlog_file.setFormatter(server_formatter)\n# создаём регистратор и настраиваем его\nlogger = logging.getLogger('server_dist')\nlogger.addHandler(steam)\nlogger.addHandler(log_file)\nlogger.setLevel(LOGGING_LEVEL)",
+        "detail": "logs.config_server_log",
+        "documentation": {}
+    },
+    {
+        "label": "log_file",
+        "kind": 5,
+        "importPath": "logs.config_server_log",
+        "description": "logs.config_server_log",
+        "peekOfCode": "log_file = logging.handlers.TimedRotatingFileHandler(path, encoding='utf8', interval=1, when='D')\nlog_file.setFormatter(server_formatter)\n# создаём регистратор и настраиваем его\nlogger = logging.getLogger('server_dist')\nlogger.addHandler(steam)\nlogger.addHandler(log_file)\nlogger.setLevel(LOGGING_LEVEL)\n# отладка\nif __name__ == '__main__':\n    logger.critical('Test critical event')",
+        "detail": "logs.config_server_log",
+        "documentation": {}
+    },
+    {
+        "label": "logger",
+        "kind": 5,
+        "importPath": "logs.config_server_log",
+        "description": "logs.config_server_log",
+        "peekOfCode": "logger = logging.getLogger('server_dist')\nlogger.addHandler(steam)\nlogger.addHandler(log_file)\nlogger.setLevel(LOGGING_LEVEL)\n# отладка\nif __name__ == '__main__':\n    logger.critical('Test critical event')\n    logger.error('Test error ivent')\n    logger.debug('Test debug ivent')\n    logger.info('Test info ivent')",
+        "detail": "logs.config_server_log",
+        "documentation": {}
+    },
+    {
+        "label": "TestClass",
+        "kind": 6,
+        "importPath": "unit_tests.test_client",
+        "description": "unit_tests.test_client",
+        "peekOfCode": "class TestClass(unittest.TestCase):\n    # тест коректного запроса\n    def test_def_presense(self):\n        test = create_presence('Guest')\n        test[TIME] = 1.1  # время необходимо приравнять принудительно иначе тест никогда не будет пройден\n        self.assertEqual(test, {ACTION: PRESENCE, TIME: 1.1, USER: {ACCOUNT_NAME: 'Guest'}})\n    # тест корректтного разбора ответа 200\n    def test_200_ans(self):\n        self.assertEqual(process_response_ans({RESPONSE: 200}), '200 : OK')\n    # тест корректного разбора 400",
+        "detail": "unit_tests.test_client",
+        "documentation": {}
+    },
+    {
+        "label": "TestSocket",
+        "kind": 6,
+        "importPath": "unit_tests.test_utils",
+        "description": "unit_tests.test_utils",
+        "peekOfCode": "class TestSocket:\n    def __init__(self, test_dict):\n        self.testdict = test_dict\n    # тестовая функция отправки, корретно  кодирует сообщение, так-же сохраняет что должно было отправлено в сокет.\n    def send(self, message_to_send):\n        json_test_message = json.dumps(self.testdict)\n        self.encoded_message = json_test_message.encode(ENCODING)\n        self.receved_message = message_to_send\n    def recv(self, max_len):\n        json_test_message = json.dumps(self.testdict)",
+        "detail": "unit_tests.test_utils",
+        "documentation": {}
+    },
+    {
+        "label": "Tests",
+        "kind": 6,
+        "importPath": "unit_tests.test_utils",
+        "description": "unit_tests.test_utils",
+        "peekOfCode": "class Tests(unittest.TestCase):\n    test_dict_send = {\n        ACTION: PRESENCE,\n        TIME: 111111.111111,\n        USER: {\n            ACCOUNT_NAME: 'test_test'\n        }\n    }\n    test_dict_recv_ok = {RESPONSE: 200}\n    test_dict_recv_err = {",
+        "detail": "unit_tests.test_utils",
+        "documentation": {}
+    },
+    {
+        "label": "ClientSender",
+        "kind": 6,
+        "importPath": "client",
+        "description": "client",
+        "peekOfCode": "class ClientSender(threading.Thread):\n    def __init__(self, account_name, sock):\n        self.account_name = account_name\n        self.sock = sock\n        super().__init__()\n    # Функция создаёт словарь с сообщением о выходе.\n    def create_exit_message(self):\n        return {\n            ACTION: EXIT,\n            TIME: time.time(),",
+        "detail": "client",
+        "documentation": {}
+    },
+    {
+        "label": "ClientReader",
+        "kind": 6,
+        "importPath": "client",
+        "description": "client",
+        "peekOfCode": "class ClientReader(threading.Thread):\n    def __init__(self, account_name, sock):\n        self.account_name = account_name\n        self.sock = sock\n        super().__init__()\n    # Основной цикл приёмника сообщений, принимает сообщения, выводит в консоль. Завершается при потере соединения.\n    def run(self):\n        while True:\n            try:\n                message = get_message(self.sock)",
+        "detail": "client",
+        "documentation": {}
+    },
+    {
+        "label": "create_presence",
+        "kind": 2,
+        "importPath": "client",
+        "description": "client",
+        "peekOfCode": "def create_presence(account_name):\n    out = {\n        ACTION: PRESENCE,\n        TIME: time.time(),\n        USER: {\n            ACCOUNT_NAME: account_name\n        }\n    }\n    logger.debug(f'Сформировано {PRESENCE} сообщение для пользователя {account_name}')\n    return out",
+        "detail": "client",
+        "documentation": {}
+    },
+    {
+        "label": "process_response_ans",
+        "kind": 2,
+        "importPath": "client",
+        "description": "client",
+        "peekOfCode": "def process_response_ans(message):\n    logger.debug(f'Разбор приветственного сообщения от сервера: {message}')\n    if RESPONSE in message:\n        if message[RESPONSE] == 200:\n            return '200 : OK'\n        elif message[RESPONSE] == 400:\n            raise ServerError(f'400 : {message[ERROR]}')\n    raise ReqFieldMissingError(RESPONSE)\n# Парсер аргументов коммандной строки\n@log",
+        "detail": "client",
+        "documentation": {}
+    },
+    {
+        "label": "arg_parser",
+        "kind": 2,
+        "importPath": "client",
+        "description": "client",
+        "peekOfCode": "def arg_parser():\n    parser = argparse.ArgumentParser()\n    parser.add_argument('addr', default=DEFAULT_IP_ADDRESS, nargs='?')\n    parser.add_argument('port', default=DEFAULT_PORT, type=int, nargs='?')\n    parser.add_argument('-n', '--name', default=None, nargs='?')\n    namespace = parser.parse_args(sys.argv[1:])\n    server_address = namespace.addr\n    server_port = namespace.port\n    client_name = namespace.name\n    # проверим подходящий номер порта",
+        "detail": "client",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": "client",
+        "description": "client",
+        "peekOfCode": "def main():\n    # Сообщаем о запуске\n    print('Консольный месседжер. Клиентский модуль.')\n    # Загружаем параметы коммандной строки\n    server_address, server_port, client_name = arg_parser()\n    # Если имя пользователя не было задано, необходимо запросить пользователя.\n    if not client_name:\n        client_name = input('Введите имя пользователя: ')\n    else:\n        print(f'Клиентский модуль запущен с именем: {client_name}')",
+        "detail": "client",
+        "documentation": {}
+    },
+    {
+        "label": "logger",
+        "kind": 5,
+        "importPath": "client",
+        "description": "client",
+        "peekOfCode": "logger = logging.getLogger('client_dist')\n# Класс формировки и отправки сообщений на сервер и взаимодействия с пользователем.\nclass ClientSender(threading.Thread):\n    def __init__(self, account_name, sock):\n        self.account_name = account_name\n        self.sock = sock\n        super().__init__()\n    # Функция создаёт словарь с сообщением о выходе.\n    def create_exit_message(self):\n        return {",
+        "detail": "client",
+        "documentation": {}
+    },
+    {
+        "label": "log",
+        "kind": 2,
+        "importPath": "decos",
+        "description": "decos",
+        "peekOfCode": "def log(func_to_log):\n    def log_saver(*args , **kwargs):\n        logger.debug(f'Была вызвана функция {func_to_log.__name__} c параметрами {args} , {kwargs}. Вызов из модуля {func_to_log.__module__}')\n        ret = func_to_log(*args , **kwargs)\n        return ret\n    return log_saver",
+        "detail": "decos",
+        "documentation": {}
+    },
+    {
+        "label": "IncorrectDataRecivedError",
+        "kind": 6,
+        "importPath": "errors",
+        "description": "errors",
+        "peekOfCode": "class IncorrectDataRecivedError(Exception):\n    def __str__(self):\n        return 'Принято некорректное сообщение от удалённого компьютера.'\n# Исключение - ошибка сервера\nclass ServerError(Exception):\n    def __init__(self, text):\n        self.text = text\n    def __str__(self):\n        return self.text\n# исключение - аргумент функции не словарь.",
+        "detail": "errors",
+        "documentation": {}
+    },
+    {
+        "label": "ServerError",
+        "kind": 6,
+        "importPath": "errors",
+        "description": "errors",
+        "peekOfCode": "class ServerError(Exception):\n    def __init__(self, text):\n        self.text = text\n    def __str__(self):\n        return self.text\n# исключение - аргумент функции не словарь.\nclass NonDictInputError(Exception):\n    def __str__(self):\n        return 'Аргумент функции должен быть словарём.'\n# Ошибка - отсутствует обязательное поле в принятом словаре.",
+        "detail": "errors",
+        "documentation": {}
+    },
+    {
+        "label": "NonDictInputError",
+        "kind": 6,
+        "importPath": "errors",
+        "description": "errors",
+        "peekOfCode": "class NonDictInputError(Exception):\n    def __str__(self):\n        return 'Аргумент функции должен быть словарём.'\n# Ошибка - отсутствует обязательное поле в принятом словаре.\nclass ReqFieldMissingError(Exception):\n    def __init__(self, missing_field):\n        self.missing_field = missing_field\n    def __str__(self):\n        return f'В принятом словаре отсутствует обязательное поле {self.missing_field}.'",
+        "detail": "errors",
+        "documentation": {}
+    },
+    {
+        "label": "ReqFieldMissingError",
+        "kind": 6,
+        "importPath": "errors",
+        "description": "errors",
+        "peekOfCode": "class ReqFieldMissingError(Exception):\n    def __init__(self, missing_field):\n        self.missing_field = missing_field\n    def __str__(self):\n        return f'В принятом словаре отсутствует обязательное поле {self.missing_field}.'",
+        "detail": "errors",
+        "documentation": {}
+    },
+    {
+        "label": "process",
+        "kind": 5,
+        "importPath": "launcher",
+        "description": "launcher",
+        "peekOfCode": "process = []\nwhile True:\n    action = input('Выберите действие: q - выход , s - запустить сервер и клиенты, x - закрыть все окна:')\n    if action == 'q':\n        break\n    elif action == 's':\n        clients_count = int(input('Введите количество тестовых клиентов для запуска: '))\n        # Запускаем сервер!\n        process.append(subprocess.Popen('python server_script.py.py', creationflags=subprocess.CREATE_NEW_CONSOLE))\n        # Запускаем клиентов:",
+        "detail": "launcher",
+        "documentation": {}
+    },
+    {
+        "label": "pathToScriptServer",
+        "kind": 5,
+        "importPath": "launcher_mac",
+        "description": "launcher_mac",
+        "peekOfCode": "pathToScriptServer = path.join(pathOfFile, \"start\",\"startServer\")\npathToScriptClients = path.join(pathOfFile, \"start\",\"startClient\")    \nprint (pathClient)\nwhile True:\n    choice = input(\"q - запуск сервера, w - остановка сервера, e - запуск 4 клиентов, r - остановка клиентов, t - остановить все, y - остановить все и выйти\")\n    if choice==\"q\":\n        print (\"Запустили сервер\")\n        server = Popen(f\"open -n -a Terminal.app '{pathToScriptServer}'\", shell=True)\n    elif choice == \"w\":\n        print (\"Убили сервер\")",
+        "detail": "launcher_mac",
+        "documentation": {}
+    },
+    {
+        "label": "pathToScriptClients",
+        "kind": 5,
+        "importPath": "launcher_mac",
+        "description": "launcher_mac",
+        "peekOfCode": "pathToScriptClients = path.join(pathOfFile, \"start\",\"startClient\")    \nprint (pathClient)\nwhile True:\n    choice = input(\"q - запуск сервера, w - остановка сервера, e - запуск 4 клиентов, r - остановка клиентов, t - остановить все, y - остановить все и выйти\")\n    if choice==\"q\":\n        print (\"Запустили сервер\")\n        server = Popen(f\"open -n -a Terminal.app '{pathToScriptServer}'\", shell=True)\n    elif choice == \"w\":\n        print (\"Убили сервер\")\n        server.kill()",
+        "detail": "launcher_mac",
+        "documentation": {}
+    },
+    {
+        "label": "get_subprocess",
+        "kind": 2,
+        "importPath": "launcher_mac_2",
+        "description": "launcher_mac_2",
+        "peekOfCode": "def get_subprocess(file_name, args=''):\n    #Задержка для того, что бы отправляющий процесс успел зарегистрироваться на сервере, и потом в словаре имен клиентов\n    #остался только слушающий клиент\n    time.sleep(0.5)\n    # file_full_path = f\"{PYTHON_PATH} {BASE_PATH}/{file_with_args}\"\n    file_full_path = f\"{BASE_PATH}/{file_name}\"\n    with open(\"start_node.command\", \"w\") as f:\n        f.write(f'#!/bin/sh\\npython3 \"{file_full_path}\" {args}')\n        # os.chmod(\"start_node.command\", stat.S_IRUSR | stat.S_IWUSR | stat.S_IRGRP | stat.S_IWGRP | stat.S_IROTH)\n    os.chmod(\"start_node.command\", stat.S_IRWXU)",
+        "detail": "launcher_mac_2",
+        "documentation": {}
+    },
+    {
+        "label": "PYTHON_PATH",
+        "kind": 5,
+        "importPath": "launcher_mac_2",
+        "description": "launcher_mac_2",
+        "peekOfCode": "PYTHON_PATH = sys.executable\nBASE_PATH = os.path.dirname(os.path.abspath(__file__))\nCLIENTS_COUNT = 1\ndef get_subprocess(file_name, args=''):\n    #Задержка для того, что бы отправляющий процесс успел зарегистрироваться на сервере, и потом в словаре имен клиентов\n    #остался только слушающий клиент\n    time.sleep(0.5)\n    # file_full_path = f\"{PYTHON_PATH} {BASE_PATH}/{file_with_args}\"\n    file_full_path = f\"{BASE_PATH}/{file_name}\"\n    with open(\"start_node.command\", \"w\") as f:",
+        "detail": "launcher_mac_2",
+        "documentation": {}
+    },
+    {
+        "label": "BASE_PATH",
+        "kind": 5,
+        "importPath": "launcher_mac_2",
+        "description": "launcher_mac_2",
+        "peekOfCode": "BASE_PATH = os.path.dirname(os.path.abspath(__file__))\nCLIENTS_COUNT = 1\ndef get_subprocess(file_name, args=''):\n    #Задержка для того, что бы отправляющий процесс успел зарегистрироваться на сервере, и потом в словаре имен клиентов\n    #остался только слушающий клиент\n    time.sleep(0.5)\n    # file_full_path = f\"{PYTHON_PATH} {BASE_PATH}/{file_with_args}\"\n    file_full_path = f\"{BASE_PATH}/{file_name}\"\n    with open(\"start_node.command\", \"w\") as f:\n        f.write(f'#!/bin/sh\\npython3 \"{file_full_path}\" {args}')",
+        "detail": "launcher_mac_2",
+        "documentation": {}
+    },
+    {
+        "label": "CLIENTS_COUNT",
+        "kind": 5,
+        "importPath": "launcher_mac_2",
+        "description": "launcher_mac_2",
+        "peekOfCode": "CLIENTS_COUNT = 1\ndef get_subprocess(file_name, args=''):\n    #Задержка для того, что бы отправляющий процесс успел зарегистрироваться на сервере, и потом в словаре имен клиентов\n    #остался только слушающий клиент\n    time.sleep(0.5)\n    # file_full_path = f\"{PYTHON_PATH} {BASE_PATH}/{file_with_args}\"\n    file_full_path = f\"{BASE_PATH}/{file_name}\"\n    with open(\"start_node.command\", \"w\") as f:\n        f.write(f'#!/bin/sh\\npython3 \"{file_full_path}\" {args}')\n        # os.chmod(\"start_node.command\", stat.S_IRUSR | stat.S_IWUSR | stat.S_IRGRP | stat.S_IWGRP | stat.S_IROTH)",
+        "detail": "launcher_mac_2",
+        "documentation": {}
+    },
+    {
+        "label": "P_LIST",
+        "kind": 5,
+        "importPath": "launcher_mac_2",
+        "description": "launcher_mac_2",
+        "peekOfCode": "P_LIST = []\nwhile True:\n    TEXT_FOR_INPUT = f\"Запустить {CLIENTS_COUNT} клиентов (s) / Закрыть клиентов (x) / Выйти (q): \"\n    USER = input(TEXT_FOR_INPUT)\n    if USER == \"q\":\n        break\n    elif USER == \"s\":\n        # P_LIST.append(get_subprocess(\"server.py\"))\n        time.sleep(0.5)\n        for i in range(CLIENTS_COUNT):",
+        "detail": "launcher_mac_2",
+        "documentation": {}
+    },
+    {
+        "label": "get_subprocess",
+        "kind": 2,
+        "importPath": "launcher_ubuntu",
+        "description": "launcher_ubuntu",
+        "peekOfCode": "def get_subprocess(file_with_args):\n    sleep(0.2)\n    file_full_path = f\"{PYTHON_PATH} {BASE_PATH}/{file_with_args}\"\n    args = [\"gnome-terminal\", \"--disable-factory\", \"--\", \"bash\", \"-c\", file_full_path]\n    return subprocess.Popen(args, preexec_fn=os.setpgrp)\nprocess = []\nwhile True:\n    TEXT_FOR_INPUT = \"Выберите действие: q - выход, s - запустить сервер и клиенты, x - закрыть все окна: \"\n    action = input(TEXT_FOR_INPUT)\n    if action == \"q\":",
+        "detail": "launcher_ubuntu",
+        "documentation": {}
+    },
+    {
+        "label": "PYTHON_PATH",
+        "kind": 5,
+        "importPath": "launcher_ubuntu",
+        "description": "launcher_ubuntu",
+        "peekOfCode": "PYTHON_PATH = sys.executable\nBASE_PATH = os.path.dirname(os.path.abspath(__file__))\ndef get_subprocess(file_with_args):\n    sleep(0.2)\n    file_full_path = f\"{PYTHON_PATH} {BASE_PATH}/{file_with_args}\"\n    args = [\"gnome-terminal\", \"--disable-factory\", \"--\", \"bash\", \"-c\", file_full_path]\n    return subprocess.Popen(args, preexec_fn=os.setpgrp)\nprocess = []\nwhile True:\n    TEXT_FOR_INPUT = \"Выберите действие: q - выход, s - запустить сервер и клиенты, x - закрыть все окна: \"",
+        "detail": "launcher_ubuntu",
+        "documentation": {}
+    },
+    {
+        "label": "BASE_PATH",
+        "kind": 5,
+        "importPath": "launcher_ubuntu",
+        "description": "launcher_ubuntu",
+        "peekOfCode": "BASE_PATH = os.path.dirname(os.path.abspath(__file__))\ndef get_subprocess(file_with_args):\n    sleep(0.2)\n    file_full_path = f\"{PYTHON_PATH} {BASE_PATH}/{file_with_args}\"\n    args = [\"gnome-terminal\", \"--disable-factory\", \"--\", \"bash\", \"-c\", file_full_path]\n    return subprocess.Popen(args, preexec_fn=os.setpgrp)\nprocess = []\nwhile True:\n    TEXT_FOR_INPUT = \"Выберите действие: q - выход, s - запустить сервер и клиенты, x - закрыть все окна: \"\n    action = input(TEXT_FOR_INPUT)",
+        "detail": "launcher_ubuntu",
+        "documentation": {}
+    },
+    {
+        "label": "process",
+        "kind": 5,
+        "importPath": "launcher_ubuntu",
+        "description": "launcher_ubuntu",
+        "peekOfCode": "process = []\nwhile True:\n    TEXT_FOR_INPUT = \"Выберите действие: q - выход, s - запустить сервер и клиенты, x - закрыть все окна: \"\n    action = input(TEXT_FOR_INPUT)\n    if action == \"q\":\n        break\n    elif action == \"s\":\n        process.append(get_subprocess(\"server.py\"))\n        for i in range(3):\n            process.append(get_subprocess(f\"client.py -n test{i+1}\"))",
+        "detail": "launcher_ubuntu",
+        "documentation": {}
+    },
+    {
+        "label": "Server",
+        "kind": 6,
+        "importPath": "server",
+        "description": "server",
+        "peekOfCode": "class Server:\n    def __init__(self, listen_address, listen_port):\n        # Параметры подключения\n        self.addr = listen_address\n        self.port = listen_port\n        # Список подключённых клиентов.\n        self.clients = []\n        # Список сообщений на отправку.\n        self.messages = []\n        # Словарь содержащий сопоставленные имена и соответствующие им сокеты.",
+        "detail": "server",
+        "documentation": {}
+    },
+    {
+        "label": "arg_parser",
+        "kind": 2,
+        "importPath": "server",
+        "description": "server",
+        "peekOfCode": "def arg_parser():\n    parser = argparse.ArgumentParser()\n    parser.add_argument('-p', default=DEFAULT_PORT, type=int, nargs='?')\n    parser.add_argument('-a', default='', nargs='?')\n    namespace = parser.parse_args(sys.argv[1:])\n    listen_address = namespace.a\n    listen_port = namespace.p\n    return listen_address, listen_port\n# Основной класс сервера\nclass Server:",
+        "detail": "server",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": "server",
+        "description": "server",
+        "peekOfCode": "def main():\n    # Загрузка параметров командной строки, если нет параметров,\n    # то задаём значения по умолчанию.\n    listen_address, listen_port = arg_parser()\n    # Создание экземпляра класса - сервера.\n    server = Server(listen_address, listen_port)\n    server.main_loop()\nif __name__ == '__main__':\n    main()",
+        "detail": "server",
+        "documentation": {}
+    },
+    {
+        "label": "logger",
+        "kind": 5,
+        "importPath": "server",
+        "description": "server",
+        "peekOfCode": "logger = logging.getLogger('server_dist')\n# Парсер аргументов командной строки.\n@log\ndef arg_parser():\n    parser = argparse.ArgumentParser()\n    parser.add_argument('-p', default=DEFAULT_PORT, type=int, nargs='?')\n    parser.add_argument('-a', default='', nargs='?')\n    namespace = parser.parse_args(sys.argv[1:])\n    listen_address = namespace.a\n    listen_port = namespace.p",
+        "detail": "server",
+        "documentation": {}
+    }
+]
